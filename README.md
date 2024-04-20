@@ -8,6 +8,6 @@ Sou um texto longo com formatação de parágrafo
 - Elemento lista
 
 1. Primeiro passo
-2. Segundo passo
+
 
 *Exemplo de tecnologias aplicadas ao projeto em uma fase de destaque*
